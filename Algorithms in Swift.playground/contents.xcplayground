@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Generic Bubble Sort'/>
+        <page name='Generic Insertion Sort'/>
+        <page name='Generic ShellSort'/>
+        <page name='Generic Binary Search'/>
+        <page name='Binary Search Tree'/>
+        <page name='Backtrackung Sodoku Solver'/>
+    </pages>
+</playground>
